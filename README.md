@@ -1,0 +1,2 @@
+# wingoai
+wingo ai perdiction

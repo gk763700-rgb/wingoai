@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 from collections import Counter
@@ -75,4 +74,3 @@ if st.button("Analyze Results"):
             )
 
     except ValueError:
-        st.error("Invalid input. Enter numbers separated by commas.")
